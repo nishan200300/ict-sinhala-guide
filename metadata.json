@@ -1,0 +1,6 @@
+{
+  "name": "ICT Sinhala Guide",
+  "description": "ශ්‍රී ලංකා ICT අධ්‍යාපනික ද්වාරය - 6 සිට 11 ශ්‍රේණි දක්වා පෙළපොත්, සටහන්, පසුගිය ප්‍රශ්න පත්‍ර සහ ආදර්ශ අභ්‍යාස.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
